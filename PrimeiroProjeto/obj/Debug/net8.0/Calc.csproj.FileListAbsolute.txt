@@ -1,0 +1,14 @@
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Calc.exe
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Calc.deps.json
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Calc.dll
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\Calc.pdb
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.dll
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\Calc.dll
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.pdb
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Prog\C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\Calc.dll
